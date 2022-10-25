@@ -19,5 +19,7 @@ php artisan migrate
 ```
 ### Running  App
 ```
+php artisan key:generate
 php artisan serve
 ```
+
