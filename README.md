@@ -1,5 +1,5 @@
 ###
-Made this Test task according to this figma requirements :https://www.figma.com/file/JNtA1IOojVZ122BZIk0wcT/Partner-locator
+Made this according to this figma requirements :https://www.figma.com/file/JNtA1IOojVZ122BZIk0wcT/Partner-locator
 
 ### Setup
 This app uses Laravel . Set up guide: https://gist.github.com/tooinfinity/1e05c33248bc7c7f228b38510ec7298a
