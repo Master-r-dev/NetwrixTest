@@ -1,6 +1,6 @@
 ###
-Made this according to this figma requirements :https://www.figma.com/file/JNtA1IOojVZ122BZIk0wcT/Partner-locator
-
+Made this according to this figma requirements: https://www.figma.com/file/JNtA1IOojVZ122BZIk0wcT/Partner-locator
+This app has functionality of showing single partner page, searching and filtering partners on main page (has 2 types of display: width < 767px and width =>767px)
 ### Setup
 
 This app uses Laravel . Set up guide: https://gist.github.com/tooinfinity/1e05c33248bc7c7f228b38510ec7298a
